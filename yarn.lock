@@ -2082,6 +2082,11 @@ vite@^1.0.0-rc.13:
     vue "^3.0.3"
     ws "^7.3.1"
 
+vue-router@4.0.4:
+  version "4.0.4"
+  resolved "https://jz-npm.daojia-inc.com/vue-router/-/vue-router-4.0.4.tgz#ad9b4b7bbdad622407b4ff189b1646f48c1e9053"
+  integrity sha1-rZtLe72tYiQHtP8YmxZG9IwekFM=
+
 vue@^3.0.3, vue@^3.0.4:
   version "3.0.5"
   resolved "https://jz-npm.daojia-inc.com/vue/-/vue-3.0.5.tgz#de1b82eba24abfe71e0970fc9b8d4b2babdc3fe1"
